@@ -64,7 +64,7 @@ function createball() {
     ball.style.left = x + 'px'
     ball.style.top = y + 'px'
     ball.style.background = 'random'
-    ball.style.borderRadius = random(0, 50, 100) + '%'
+    ball.style.borderRadius = random(0, 50,) + '%'
     
     box.append(ball)
 }
