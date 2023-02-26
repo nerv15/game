@@ -56,5 +56,5 @@ a {
 
 .ball {
     position: absolute;
-    border-radius: 0%;
+    border-radius: 100%;
 }
